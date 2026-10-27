@@ -11,6 +11,7 @@ During my thesis experience at **Human Technopole**, in collaboration with **POL
 | Project | Focus | Explore |
 |---|---|---|
 | **Territorial fragility index** · MSc thesis | Interpretable municipal indicators for Lombardy, spatial analysis, autoencoder comparisons and a Shiny dashboard | [Repository](https://github.com/aleambrogi/territorial-fragility-index) |
+| **Heart failure readmission** · Group project | Python model comparison for six-month readmission, feature selection and SHAP interpretation; restricted data excluded | [Repository](https://github.com/aleambrogi/heart-failure-readmission) |
 | **Population forecasting** · Group project | Forecasting population in Italian municipalities to 2040, comparing models and predictive intervals | [Repository](https://github.com/aleambrogi/NonParametricStatistics) |
 | **Healthcare accessibility in Italy** · Collaborative research | Geographic data integration, travel-time analysis and territorial accessibility indicators; related manuscript **under review** | [Repository](https://github.com/aleambrogi/healthcare-accessibility-italy) |
 | **SpatialCMC** · Collaborative project | C++ implementations of Bayesian clustering, adjacency-aware MCMC and consensus experiments | [Repository](https://github.com/aleambrogi/spatialcmc) |
